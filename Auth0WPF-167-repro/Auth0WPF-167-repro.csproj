@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Auth0.OidcClient.WPF" Version="3.1.7" />
+    <PackageReference Include="Microsoft.Windows.CsWinRT" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
